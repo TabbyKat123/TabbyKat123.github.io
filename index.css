@@ -5,6 +5,12 @@ h1{
 	font-family: Arial; 
 	color: red;
 	font-size: 70;
+	text-align: center;
+}
+h4{
+	font-size: 50;
+	color: purple;
+	text-align: center;
 }
 
 img{
