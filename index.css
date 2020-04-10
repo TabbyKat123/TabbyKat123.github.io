@@ -1,14 +1,21 @@
 *{
-	background-color: skyblue;
+	background-color: cream;
 }
 h1{
 	font-family: Arial; 
 	color: red;
-	font-size: 70;
+	font-size: 100;
 	text-align: center;
 }
+
+
+.logo{
+	text-decoration: wavy;
+
+
+}
 h4{
-	font-size: 50;
+	font-size: 70;
 	color: purple;
 	text-align: center;
 }
@@ -16,7 +23,12 @@ h4{
 img{
 	width: 200px;
 	height: 100px;
-	border-radius: 15px 50px 30px 5px;
+	border-radius: 15px 15px 15px 15px;
+	position: relative;
+	align-self: center;
 }
 
+p{
+	text-align: center;
+}
 
